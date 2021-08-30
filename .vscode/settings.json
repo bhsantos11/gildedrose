@@ -1,0 +1,15 @@
+{
+    "bracket-pair-colorizer-2.colors": [
+        
+    
+        "Gold",
+        "Orchid",
+        "LightSkyBlue"
+    ],
+    "[python]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4  
+      }
+      
+}
+
